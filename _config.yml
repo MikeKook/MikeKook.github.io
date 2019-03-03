@@ -108,9 +108,7 @@ analytics:
 author:
   name             : "Michael Kook"
   avatar           : "/asset/images/profile_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : |
-                     "Research Scientist of
-                    Computer vision & Deep Learning"
+  bio              : "Research Scientist of \n Computer vision & Deep Learning"
   location         : "Seoul, Republic of Korea"
   email            :
   links:
