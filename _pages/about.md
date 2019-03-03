@@ -4,28 +4,28 @@ title: "About"
 ---
 
 ## Rearch Interests
-- My research interests are in the area if computer vision and machine learning.\
-  I researched deep-learning-based object detection, knowledge distillation\
+- My research interests are in the area if computer vision and machine learning.  
+  I researched deep-learning-based object detection, knowledge distillation  
   and deep metric learning.
 
 ## Education
-- **Korea University (Seoul, Republic of Korea)**\
-  **Master of Science in Electrical Engineering (Feb, 2019)**\
-  Advisor: Sung-Jae Ko\
+- **Korea University (Seoul, Republic of Korea)**  
+  **Master of Science in Electrical Engineering (Feb, 2019)**  
+  Advisor: Sung-Jae Ko  
   GPA: 4.44/4.5
 
-- **Dongguk University (Seoul, Republic of Korea)**\
-  **Bachelor of Science in Electrical Engineering (Feb, 2017)**\
-  GPA: 4.21/4.5\
+- **Dongguk University (Seoul, Republic of Korea)**  
+  **Bachelor of Science in Electrical Engineering (Feb, 2017)**  
+  GPA: 4.21/4.5  
   *Honers: Summa Cum Laude*
   
 ## Research Projects
-- **Deep-View (Aug 2017 - Dec 2018)**\
+- **Deep-View (Aug 2017 - Dec 2018)**  
   Development of global multi-target tracking and event prediction techniques based on
   real-time large-scale video analysis, Institute for Information communications Tech-
   nology Promotion (IITP)
 
-- **CNN-based Instance Segmentation (Mar - July 2017)**\
+- **CNN-based Instance Segmentation (Mar - July 2017)**  
   Development of high speed DNN based video segmentation technology, LG Electronics
   Co., Ltd.
   
@@ -47,10 +47,10 @@ title: "About"
   land, New Zealand, 2019.
   
 ## Experience
-- **NAVER AI Hackathon Jan - Feb 2019**\
-  Image retrieval challenge on general product images\
+- **NAVER AI Hackathon Jan - Feb 2019**  
+  Image retrieval challenge on general product images  
   *Winner of Competition (1st place)*
 
-- **LINK+ Capstone Design Competition Mar - Sep 2016**\
-  Competition on electrical engineering & computer science\
+- **LINK+ Capstone Design Competition Mar - Sep 2016**  
+  Competition on electrical engineering & computer science  
   *Runner-up of Competition (2nd place)*
