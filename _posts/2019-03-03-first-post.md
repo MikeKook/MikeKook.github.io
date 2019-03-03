@@ -3,8 +3,7 @@ title: "Michael Kook's Blog"
 date: 2019-03-03 21:26:28 -0400
 categories: Intro
 ---
-Hi, welcome :)  
-My name is Michael Kook.
+Welcome to Michael Kook's Blog :)  
 
 I received M.S. degree from [Korea University][korea-university], Seoul, Korea in 2019.
 
