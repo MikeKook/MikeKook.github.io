@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 ---
 
 ## Research Interests
-- My research interests are in the area is computer vision and machine learning. I researched deep-learning-based object detection, knowledge distillation and deep metric learning.
+- My research interests are in the area of computer vision and machine learning. I researched deep-learning-based object detection, knowledge distillation and deep metric learning.
 
 ## Education
 - **Korea University (Seoul, Republic of Korea)**  
