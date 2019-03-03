@@ -3,7 +3,7 @@ permalink: /about/
 title: "Curriculum Vitae"
 ---
 
-## Rearch Interests
+## Research Interests
 - My research interests are in the area is computer vision and machine learning. I researched deep-learning-based object detection, knowledge distillation and deep metric learning.
 
 ## Education
@@ -45,10 +45,10 @@ title: "Curriculum Vitae"
   land, New Zealand, 2019.
 
 ## Experience
-- **NAVER AI Hackathon Jan - Feb 2019**  
+- **NAVER AI Hackathon (Jan - Feb 2019)**  
   Image retrieval challenge on general product images  
-  *Winner of Competition (1st place)*
+  *Winner of Hackathon (1st place)*
 
-- **LINK+ Capstone Design Competition Mar - Sep 2016**  
+- **LINK+ Capstone Design Competition (Mar - Sep 2016)**  
   Competition on electrical engineering & computer science  
   *Runner-up of Competition (2nd place)*
