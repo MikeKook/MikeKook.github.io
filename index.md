@@ -15,11 +15,11 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Go to About"
-  - image_path: /assets/images/progressing.jpg
+  - image_path: /assets/images/post.jpg
     alt: "fully responsive"
     title: "Posts"
     excerpt: "Yearly-archived posts"
-    url: "/posts/"
+    url: "/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Go to Posts"
   - image_path: /assets/images/progressing.jpg
