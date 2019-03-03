@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/wpp.jpg
 excerpt: >
-  Resarch Scientist of<br />Computer Vision & Deep Learning.<br /><br />
+  <br />Resarch Scientist of<br />Computer Vision & Deep Learning.<br />
   <small><a href="https://github.com/MikeKook">GitHub</a></small>
 feature_row:
   - image_path: /assets/images/profile_img.jpg
@@ -22,13 +22,13 @@ feature_row:
     url: "/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Go to Posts"
-  - image_path: /assets/images/progressing.jpg
+  - image_path: /assets/images/fix.jpg
     alt: "100% free"
-    title: "Progressing"
-    excerpt: "Progressing"
-    url: "/about/"
+    title: "Preparing"
+    excerpt: "Work in progress"
+    url: "/no-doubt/"
     btn_class: "btn--primary"
-    btn_label: "Go to"      
+    btn_label: "Ready to Go"      
 ---
 
 {% include feature_row %}
