@@ -5,9 +5,10 @@ categories: Intro
 ---
 Welcome to Michael Kook's Blog :)  
 
-I received M.S. degree from [Korea University][korea-university], Seoul, Korea in 2019.
+I received M.S. degree from [Korea University][korea-university],  
+Seoul, Korea in 2019.
 
-My research interests are in the area of computer vision and machine learning. I researched deep-learning-based object detection, knowledge distillation and deep metric learning, recently.
+My research interests are computer vision & deep learning.
 
 Checkout my [CV][curriculum-viate] for more information!
 

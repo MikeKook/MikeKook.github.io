@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/wpp.jpg
 excerpt: >
-  <br />Resarch Scientist of<br />Computer Vision & Deep Learning.<br />
+  <br />Research Scientist of<br />Computer Vision & Deep Learning.<br />
   <small><a href="https://github.com/MikeKook">GitHub</a></small>
 feature_row:
   - image_path: /assets/images/profile_img.jpg
@@ -26,7 +26,7 @@ feature_row:
     alt: "news"
     title: "Preparing"
     excerpt: "Work in progress (news)"
-    url: "/no-doubt/"
+    url: "/archive/"
     btn_class: "btn--primary"
     btn_label: "Ready to Go"      
 ---
