@@ -64,7 +64,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : True # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Michael Kook"
   avatar           : "/asset/images/profile_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master of Engineering"
-  location         : "Seoul, Korea"
+  bio              : "Research Scientist of Computer vision & Deep Learning"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
