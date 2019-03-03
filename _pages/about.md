@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
 ## Rearch Interests
