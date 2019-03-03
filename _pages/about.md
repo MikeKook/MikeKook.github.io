@@ -4,7 +4,7 @@ title: "About"
 ---
 
 ## Rearch Interests
-- My research interests are in the area if computer vision and machine learning.  
+- My research interests are in the area is computer vision and machine learning.  
   I researched deep-learning-based object detection, knowledge distillation  
   and deep metric learning.
 
@@ -18,7 +18,7 @@ title: "About"
   **Bachelor of Science in Electrical Engineering (Feb, 2017)**  
   GPA: 4.21/4.5  
   *Honers: Summa Cum Laude*
-  
+
 ## Research Projects
 - **Deep-View (Aug 2017 - Dec 2018)**  
   Development of global multi-target tracking and event prediction techniques based on
@@ -28,7 +28,7 @@ title: "About"
 - **CNN-based Instance Segmentation (Mar - July 2017)**  
   Development of high speed DNN based video segmentation technology, LG Electronics
   Co., Ltd.
-  
+
 ## Publications
 - Seung-Wook Kim, **Hyong-Keun Kook**, Jee-Young Sun, Mun-Cheon Kang, and Sung-
   Jea Ko, "Parallel feature pyramid network for object detection," ECCV 2018, Munich,
@@ -37,7 +37,7 @@ title: "About"
 - **Hyong-Keun Kook**, Seung-Wook Kim, Sang-Won Lee, Young-Hyun Kim, and Sung-
   Jea Ko, "Object detection with multi-scale context aggregation," ICEIC 2018, Hawaii,
   USA, 2018.
-  
+
 - Seung-Wook Kim, **Hyong-Keun Kook**, Young-Hyun Kim, Jee-Young Sun, and Sung-
   Jea Ko, "Single shot object detection using spatial pyramid pooling," ICEIC 2018,
   Hawaii, USA, 2018.
@@ -45,7 +45,7 @@ title: "About"
 - Sung-Jin Cho, Seung-Wook Kim, Kwang-Hyun Uhm, **Hyong-Keun Kook**, and Sung-
   Jea Ko, "Learning an object detector using zoomed object regions," ICEIC 2019, Auck-
   land, New Zealand, 2019.
-  
+
 ## Experience
 - **NAVER AI Hackathon Jan - Feb 2019**  
   Image retrieval challenge on general product images  
