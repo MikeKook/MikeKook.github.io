@@ -6,7 +6,7 @@ title: "News"
 ## 2019
 - I received **M.S. degree** from **Korea University (Feb 2019)**  
   Thesis:  Object Detection using Multi-scale Object Information  
-  Advisor: Sung-Jae Ko
+  Advisor: Sung-Jae Ko  
   GPA: 4.44/4.5
 
 - **NAVER AI Hackathon (Jan - Feb 2019)**  
