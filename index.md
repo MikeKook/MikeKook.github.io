@@ -14,21 +14,21 @@ feature_row:
     excerpt: "Checkout my latest CV"
     url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Go to About"
+    btn_label: "Read CV"
+  - image_path: /assets/images/news.jpg
+    alt: "news"
+    title: "News"
+    excerpt: "Yealy-archived news"
+    url: "/news/"
+    btn_class: "btn--primary"
+    btn_label: "Read articles"
   - image_path: /assets/images/post.jpg
     alt: "posts"
     title: "Posts"
     excerpt: "Yearly-archived posts"
     url: "/year-archive/"
     btn_class: "btn--primary"
-    btn_label: "Go to Posts"
-  - image_path: /assets/images/news.jpg
-    alt: "news"
-    title: "Preparing"
-    excerpt: "Work in progress (news)"
-    url: "/archive/"
-    btn_class: "btn--primary"
-    btn_label: "Ready to Go"      
+    btn_label: "Read posts"     
 ---
 
 {% include feature_row %}
